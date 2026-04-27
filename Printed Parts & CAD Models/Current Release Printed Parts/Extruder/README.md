@@ -15,7 +15,7 @@ All needed parts are included with the LDO Positron Kit (there are plenty of ext
     - 2x go through the bottom of `extruder_v2_main_body` into the LDO Pancake Stepper.
 - M3x8 BHCS (2x)
     - 2x go through the bottom of `extruder_v2_bottom_plate` into M3x5x4 Heatset Inserts in `extruder_v2_main_body_*`.
-- M3x5x4 Heatset Insert (Quantity: 4)
+- M3x4x5 Heatset Insert (Quantity: 4)
     - 1x goes into the bottom of `extruder_v2_motor_plate` (see above).
     - 2x go into the bottom of `extruder_v2_main_body_*` (see above).
     - 1x goes into the side of `extruder_v2_guidler`.
