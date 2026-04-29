@@ -11,10 +11,10 @@ All needed parts are included with the LDO Positron Kit (there are plenty of ext
 - M2x10 Self Tapping Screw (Quantity: 2)
     - Used to attach the Z Endstop Switch to the `extruder_v2_main_body`)
 - M3x25 BHCS (Quantity: 3)
-    - 1x goes from the bottom through `extruder_v2_bottom_plate` and `extruder_v2_main_body` into a M3x5x4 Heatset Insert in `extruder_v2_motor_plate`.
+    - 1x goes from the bottom through `extruder_v2_bottom_plate` and `extruder_v2_main_body` into a M3x4x5 Heatset Insert in `extruder_v2_motor_plate`.
     - 2x go through the bottom of `extruder_v2_main_body` into the LDO Pancake Stepper.
 - M3x8 BHCS (2x)
-    - 2x go through the bottom of `extruder_v2_bottom_plate` into M3x5x4 Heatset Inserts in `extruder_v2_main_body_*`.
+    - 2x go through the bottom of `extruder_v2_bottom_plate` into M3x4x5 Heatset Inserts in `extruder_v2_main_body_*`.
 - M3x4x5 Heatset Insert (Quantity: 4)
     - 1x goes into the bottom of `extruder_v2_motor_plate` (see above).
     - 2x go into the bottom of `extruder_v2_main_body_*` (see above).
@@ -22,7 +22,7 @@ All needed parts are included with the LDO Positron Kit (there are plenty of ext
 - M4 Hex Nut (Quantity: 2)
 - M4x10 BHCS (Quantity: 2)
 - EITHER: M3x35 SHCS or M3x35 BHCS OR the silver M3 Thumbscrew (see note below) (Quantity: 1)
-    - This goes through the spring, through the washer, and into the front of `extruder_v2_main_body` and into the M3x5x4 Heatset Insert on `extruder_v2_guidler` as the tensioning mechanism.
+    - This goes through the spring, through the washer, and into the front of `extruder_v2_main_body` and into the M3x4x5 Heatset Insert on `extruder_v2_guidler` as the tensioning mechanism.
 - Extruder BMG Spring
 - Washer
 
